@@ -1,0 +1,7 @@
+streamlit>=1.35.0
+PyMuPDF>=1.21.1
+gTTS>=2.5.1
+pydub>=0.25.1
+edge-tts==6.1.9
+aiohttp==3.9.5
+typing-extensions>=4.12.2
