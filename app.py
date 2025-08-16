@@ -22,7 +22,7 @@ EDGE_VOICE_MAP = {
 }
 
 st.set_page_config(page_title="PDF → Audiobook Converter", page_icon="🎧", layout="centered")
-st.title("🎧 PDF → Audiobook Converter (No Billing)")
+st.title("🎧 PDF → Audiobook Converter")
 st.caption("Edge TTS (UK/US × Male/Female), gTTS fallback. Page range, preview, and MP3 export included.")
 
 # ---------- PDF extraction (preserve headings & paragraphs heuristically) ----------
